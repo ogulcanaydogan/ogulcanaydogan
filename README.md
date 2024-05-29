@@ -28,6 +28,17 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/-ELK-005571?style=flat&logo=Elastic-Stack&logoColor=white)
 
+## 🌟 Highlights
+
+- 📈 **Enhanced Deployment:** Improved CI/CD pipelines with Jenkins for Kubernetes, reducing downtime.
+- 🛠️ **Infrastructure as Code:** Streamlined AWS provisioning with Terraform and CloudFormation.
+- 🔐 **Security:** Implemented AWS Secrets Manager for secure data handling.
+- 📊 **Monitoring:** Set up Prometheus and Grafana for advanced system monitoring.
+
+---
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ogulcanaydogan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ogulcanaydogan&theme=dark&hide_border=false)<br/>
