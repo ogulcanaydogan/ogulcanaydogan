@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Dikkat](https://www.linkedin.com/in/ogulcanaydogan/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ogulcanaydogan)
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
@@ -47,13 +47,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RFaqiri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Highlights
-
-- 📈 **Enhanced Deployment:** Improved CI/CD pipelines with Jenkins for Kubernetes, reducing downtime.
-- 🛠️ **Infrastructure as Code:** Streamlined AWS provisioning with Terraform and CloudFormation.
-- 🔐 **Security:** Implemented AWS Secrets Manager for secure data handling.
-- 📊 **Monitoring:** Set up Prometheus and Grafana for advanced system monitoring.
-
----
 
 
