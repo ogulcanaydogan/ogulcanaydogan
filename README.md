@@ -36,4 +36,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RFaqiri&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌟 Highlights
+
+- 📈 **Enhanced Deployment:** Improved CI/CD pipelines with Jenkins for Kubernetes, reducing downtime.
+- 🛠️ **Infrastructure as Code:** Streamlined AWS provisioning with Terraform and CloudFormation.
+- 🔐 **Security:** Implemented AWS Secrets Manager for secure data handling.
+- 📊 **Monitoring:** Set up Prometheus and Grafana for advanced system monitoring.
+
+---
+
 
