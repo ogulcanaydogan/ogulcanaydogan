@@ -1,6 +1,6 @@
-
+6
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Dikkat](https://www.linkedin.com/in/ogulcanaydogan/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ogulcanaydogan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com6/in/Dikkat](https://www.linkedin.com/in/ogulcanaydogan/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ogulcanaydogan)
 # 💻 Tech Stack:
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -35,6 +35,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RFaqiri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcanaydogan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=RFaqiri&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
