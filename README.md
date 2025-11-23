@@ -32,6 +32,28 @@
 
 [![](https://visitcount.itsvg.in/api?id=RFaqiri&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ogulcanaydogan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcanaydogan&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcanaydogan&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=ogulcanaydogan&theme=onestar&no-frame=true&column=4" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
 
 
 
