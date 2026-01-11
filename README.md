@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-five-21.vercel.app/api?username=ogulcanaydogan&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-iota-five-21.vercel.app/api?username=ogulcanaydogan&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcanaydogan&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ogulcanaydogan&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
