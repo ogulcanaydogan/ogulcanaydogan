@@ -27,6 +27,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-iota-five-21.vercel.app/api/top-langs/?username=ogulcanaydogan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats-iota-five-21.vercel.app/api/top-langs/?username=ogulcanaydogan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
