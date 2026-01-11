@@ -26,16 +26,8 @@
 ![ELK](https://img.shields.io/badge/-ELK-005571?style=flat&logo=Elastic-Stack&logoColor=white)
 
 ---
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats-iota-five-21.vercel.app/api?username=ogulcanaydogan&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-</p>
+## 📊 Most Used Languages:
 
 <p align="center">
   <img src="https://github-readme-stats-iota-five-21.vercel.app/api/top-langs/?username=ogulcanaydogan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ogulcanaydogan&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
