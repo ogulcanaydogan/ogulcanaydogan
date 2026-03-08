@@ -1,4 +1,4 @@
-DevOps engineer in London. I work on security tooling for AI/ML systems and contribute to CNCF supply chain projects.
+DevOps engineer in London. I train LLMs for low-resource languages and build security tooling for AI systems. Active contributor to CNCF supply chain projects.
 
 `Go` `Python` `Terraform` `Kubernetes` `AWS` `Docker` `eBPF` `Sigstore` `OPA` `Prometheus` `Helm`
 
