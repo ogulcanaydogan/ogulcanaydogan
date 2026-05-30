@@ -1,4 +1,4 @@
-DevOps engineer in London. I train LLMs for low-resource languages and build security tooling for AI systems. Active contributor to CNCF and ML infrastructure projects.
+Security, provenance, and supply-chain integrity for AI systems. LLM training for low-resource languages. Open-source contributor across CNCF and ML infrastructure.
 
 `Go` `Python` `Terraform` `Kubernetes` `AWS` `Docker` `eBPF` `OPA` `Prometheus` `ONNX` `PyTorch`
 
